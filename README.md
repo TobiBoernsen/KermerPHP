@@ -15,7 +15,7 @@ Um dieses Projekt auszuführen, müssen Sie folgende Software installiert haben:
 1. **Klonen Sie das Repository** oder laden Sie die Dateien in Ihr Webserver-Verzeichnis herunter.
 
     ```
-    git clone https://github.com/yourusername/your-repository-name.git
+    git clone(https://github.com/TobiBoernsen/KermerPHP.git)
     ```
 
 2. **Erstellen Sie eine MySQL-Datenbank** und importieren Sie das beigefügte Schema aus der `database.sql`-Datei (nicht im Code enthalten, muss separat erstellt werden).
